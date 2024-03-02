@@ -1,0 +1,5 @@
+com/ltp/gradesubmission/Controller/GradeController.class
+com/ltp/gradesubmission/Repository/GradeRepository.class
+com/ltp/gradesubmission/Service/GradeService.class
+com/ltp/Grade.class
+com/ltp/gradesubmission/GradeSubmissionApplication.class
